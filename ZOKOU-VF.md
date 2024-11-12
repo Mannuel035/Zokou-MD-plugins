@@ -1,4 +1,4 @@
-<h1 align="center"> ZOKOU-2.0 Version-Française-plugins </h1>
+<h1 align="center"> MANU-2.0 Version-Française-plugins </h1>
 <div align="center">
 <br /> 
 ---
@@ -15,7 +15,7 @@
 ```
 https://gist.githubusercontent.com/Luffy2ndAccount/d7c2280305738a6f9a6c2c60b1bab8f9/raw/2af46631ae25eed65044311b3065c0100dac7e85/imgurVF.js
 ```
-- Auteur : Zokou-devs
+- Auteur : MANU-devs
 ---
 
 
@@ -26,7 +26,7 @@ https://gist.githubusercontent.com/Luffy2ndAccount/d7c2280305738a6f9a6c2c60b1bab
 ```
 https://gist.githubusercontent.com/Luffy2ndAccount/17faf5b222e554726961e8a0d6b5be72/raw/105db19b22d64d0837a5c3ac87d0eba518b1766a/logopackVF.js
 ```
-- Auteur : Zokou-devs
+- Auteur : MANU-devs
 ---
 
 
@@ -37,7 +37,7 @@ https://gist.githubusercontent.com/Luffy2ndAccount/17faf5b222e554726961e8a0d6b5b
 ```
 https://gist.githubusercontent.com/Luffy2ndAccount/b0688f0247fee99977719d67ded351a8/raw/7b04c87da956ddc3988df2d8de2bd878e0c6495d/sportifyVF.js
 ```
-- Auteur : Zokou-devs
+- Auteur : MANU-devs
 ---
 
 
@@ -48,7 +48,7 @@ https://gist.githubusercontent.com/Luffy2ndAccount/b0688f0247fee99977719d67ded35
 ```
 https://gist.githubusercontent.com/Luffy2ndAccount/fa020650735a55c39563cb6d2cbbb477/raw/5d5302dcfcc5b628984247a97104cba7ac782ff6/aipackVF.js
 ```
-- Auteur : Zokou-devs
+- Auteur : MANU-devs
 ---
 
 
@@ -59,7 +59,7 @@ https://gist.githubusercontent.com/Luffy2ndAccount/fa020650735a55c39563cb6d2cbbb
 ```
 https://gist.githubusercontent.com/Luffy2ndAccount/e74747543efc88c5f027b350fd644034/raw/c3bf520f9f25bd08f8915ae28a39f62edf3d8a71/catboxVF.js
 ```
-- Auteur : Zokou-Devs
+- Auteur : MANU-Devs
 ---
 
 
@@ -81,5 +81,5 @@ https://gist.githubusercontent.com/Famous-Tech/5da335a245c92e6e3c5283da5cbecbe9/
 ```
 https://gist.githubusercontent.com/Luffy2ndAccount/6f038f5dce032771bbf0a6ab88509e2c/raw/1b8285bf22963be908b6403295858180184d6f90/fullppVF.js
 ```
-- Auteur : Zokou-Devs
+- Auteur : MANU-Devs
 ---
