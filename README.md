@@ -1,19 +1,19 @@
-# ZOKOU
+# MANU
 
-Bienvenue dans **ZOKOU**, une application qui vous permet de choisir entre deux versions linguistiques :
+Bienvenue dans **MANU**, une application qui vous permet de choisir entre deux versions linguistiques :
 
-- **[ZOKOU-VF](./ZOKOU-VF.md)** (Version Française)
-- **[ZOKOU-VE](./ZOKOU-VE.md)** (Version Anglaise)
+- **[MANU-VF](./MANU-VF.md)** (Version Française)
+- **[MANU-VE](./MANU-VE.md)** (Version Anglaise)
 
 ## Choisissez votre version
 
-### 🟢 [ZOKOU-VF (Version Française)](./ZOKOU-VF.md)
+### 🟢 [MANU-VF (Version Française)](./MANU-VF.md)
 La version française inclut une interface et des commandes en français. Suivez le lien ci-dessus pour plus de détails.
 
 **Installation :**
 - Utilisez la commande `plugin install` pour installer les plugins nécessaires.
 
-### 🔵 [ZOKOU-VE (Version Anglaise)](./ZOKOU-VE.md)
+### 🔵 [MANU-VE (Version Anglaise)](./MANU-VE.md)
 The English version provides an interface and commands in English. Follow the link above for more details.
 
 **Installation :**
