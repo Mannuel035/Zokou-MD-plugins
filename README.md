@@ -62,6 +62,6 @@ zokou({ nomCom: "pugtest",
       }, async (origineMessage, zk, commandeOptions) => {
   const { ms, msgRepondu, arg, repondre, nomAuteurMessage } = commandeOptions;
 
-  zk.sendMessage(origineMessage,{text : "Hi , My name is XXXXX"}) ;
+  zk.sendMessage(origineMessage,{text : "Hi , My name is MANUCHO"}) ;
 
 }); 
