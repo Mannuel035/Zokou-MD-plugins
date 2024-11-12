@@ -1,7 +1,7 @@
 {
-  "name": "zokou-md-plugins-repo",
+  "name": "MANU-md-plugins-repo",
   "version": "1.0.0",
-  "description": "Bienvenue dans **ZOKOU**, une application qui vous permet de choisir entre deux versions linguistiques :",
+  "description": "Bienvenue dans **MANU**, une application qui vous permet de choisir entre deux versions linguistiques :",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
