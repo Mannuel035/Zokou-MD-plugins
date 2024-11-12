@@ -7,7 +7,7 @@ const rawData = fs.readFileSync(jsonFilePath);
 const pluginsData = JSON.parse(rawData);
 
 
-let readmeContent = `<h1 align="center"> ZOKOU-2.0 Version-Française-plugins </h1>
+let readmeContent = `<h1 align="center"> MANU-2.0 Version-Française-plugins </h1>
 <div align="center">
 <br /> 
 ---
@@ -32,13 +32,13 @@ ${plugin.url}
 });
 
 
-const readmeFilePath = path.join(__dirname, 'ZOKOU-VF.md');
+const readmeFilePath = path.join(__dirname, 'MANU-VF.md');
 fs.writeFileSync(readmeFilePath, readmeContent);
 
-console.log('ZOKOU-VF.md généré avec succès');
+console.log('MANU-VF.md généré avec succès');
 
 
-readmeContent = `<h1 align="center"> ZOKOU-2.0 English-version-plugins </h1>
+readmeContent = `<h1 align="center"> MANU-2.0 English-version-plugins </h1>
 <div align="center">
 <br /> 
 ---
@@ -63,6 +63,6 @@ ${plugin.url}
 });
 
 
-const readmeFilePath2 = path.join(__dirname, 'ZOKOU-VE.md');
+const readmeFilePath2 = path.join(__dirname, 'MANU-VE.md');
 fs.writeFileSync(readmeFilePath2, readmeContent);
-console.log('ZOKOU-VE.md généré avec succès');
+console.log('MANU-VE.md généré avec succès');
